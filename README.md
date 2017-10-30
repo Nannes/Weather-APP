@@ -5,6 +5,7 @@ Beginner: Download the starter project files as .zip and extract the files to yo
 
 Pro: Git clone to your Xcode projects folder.
 
+This App is to check the weather of the city you can download and checks weather of any city of the world.
 
 
 ## Fix for Cocoapods v1.0.1 and below
